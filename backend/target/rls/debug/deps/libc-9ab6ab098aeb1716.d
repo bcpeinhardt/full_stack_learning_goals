@@ -1,0 +1,11 @@
+c:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\rls\debug\deps\libc-9ab6ab098aeb1716.rmeta: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\macros.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\fixed_width_ints.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\mod.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\msvc.rs
+
+c:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\rls\debug\deps\liblibc-9ab6ab098aeb1716.rlib: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\macros.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\fixed_width_ints.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\mod.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\msvc.rs
+
+c:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\rls\debug\deps\libc-9ab6ab098aeb1716.d: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\macros.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\fixed_width_ints.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\mod.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\msvc.rs
+
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\lib.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\macros.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\fixed_width_ints.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\mod.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.88\src\windows\msvc.rs:

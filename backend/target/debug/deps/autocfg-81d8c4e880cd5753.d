@@ -1,0 +1,9 @@
+C:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\debug\deps\autocfg-81d8c4e880cd5753.rmeta: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\debug\deps\libautocfg-81d8c4e880cd5753.rlib: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\benja\Desktop\VS_Environment\full_stack_learning_goals\backend\target\debug\deps\autocfg-81d8c4e880cd5753.d: C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs:
+C:\Users\benja\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs:
