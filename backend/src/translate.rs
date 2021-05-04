@@ -42,7 +42,7 @@ mod tests {
     #[test]
     fn translator_api_requirements() {
         let my_tran =
-            Translator::from("x =>shorthand, y => roll tide, z => another              ").unwrap();
+            Translator::from("x =>shorthand, y => roll tide,z=> another              ").unwrap();
         let mut test_map = HashMap::new();
         test_map.insert("x".to_string(), "shorthand".to_string());
         test_map.insert("y".to_string(), "roll tide".to_string());

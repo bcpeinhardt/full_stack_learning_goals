@@ -11,11 +11,6 @@ mod translate;
 use translate::Translator;
 use std::collections::HashMap;
 
-#[get("/hello/<name>")]
-fn hello(name: String) -> String {
-    format!("{}", name)
-}
-
 #[get("/")]
 fn index() -> &'static str {
     "Index.html"
