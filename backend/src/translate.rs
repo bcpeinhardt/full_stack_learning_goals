@@ -12,6 +12,12 @@ pub struct Translator {
 }
 impl Translator {
     pub fn from(config_text: &str) -> Result<Self, Error> {
+        
+        let shorthand = Self::extract_hashmap_from_config(config_text.to_string());
+        Ok(Self { shorthand })
+    }
+
+    fn extract_hashmap_from_config(config_text: String) -> HashMap<String, String> {
         let mut shorthand = HashMap::new();
         let defs = config_text.split(',');
         for def in defs {
@@ -20,7 +26,7 @@ impl Translator {
                 shorthand.insert(arr[0].trim().to_string(), arr[1].trim().to_string());
             }
         }
-        Ok(Self { shorthand })
+        shorthand
     }
 
     pub fn translate(&self, msg: &str) -> String {

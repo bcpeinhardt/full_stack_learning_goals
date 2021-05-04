@@ -36,5 +36,5 @@ fn get_translation(config: String, msg: String) -> String {
 }
 
 fn main() {
-    rocket::ignite().mount("/", routes![index, hello, get_translation]).launch();
+    rocket::ignite().mount("/", routes![index, get_translation]).launch();
 }
